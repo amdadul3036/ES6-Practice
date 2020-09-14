@@ -1,5 +1,5 @@
 class Parent{
-    constructor(name){
+    constructor(){
         this.FatherName="Jamal";
     }
 }
