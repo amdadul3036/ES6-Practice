@@ -1,5 +1,5 @@
 //For Single Parameter(num);
-const flow = num=>num*2;
+const flow = num => num*2;
 
 console.log(flow(50));
 
@@ -15,7 +15,7 @@ console.log(flow(50));
 
 
 
-//For multiple Function just add the parameters into a round bracket.such as--
+//For multiple Function just add the parameters into a round bracket that is called parenthesis.such as--
 const multipleParameter = (num1, num2)=>num1*num2;
 console.log(multipleParameter(2,4));
 
